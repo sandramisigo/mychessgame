@@ -16,7 +16,7 @@ This is a simple Chess game that is created using the **Python Pygame Library**.
 ```bash
 pip install pygame
 
-**Running the Game**
+Running the Game
 1. To run the chess game, use the following command:
 2. python3 main.py. This will launch the game window, and you can start playing chess!
 
