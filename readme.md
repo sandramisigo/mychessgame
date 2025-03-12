@@ -20,31 +20,31 @@ Running the Game
 1. To run the chess game, use the following command:
 2. python3 main.py. This will launch the game window, and you can start playing chess!
 
-**How to Play Chess**
+How to Play Chess
 1. Have two players, Player 1 (White) and Player 2 (Black) taking turns to move the pieces.
 2. Clicking on a piece selects it, whereas clicking on a valid square moves the piece there.
 3. The game ensures all legal chess moves.
 
-**Modifications**
+Modifications
  1. Feel free to modify the chess game by adding new features, improving the graphics, or even implementing an AI opponent.
 
-**Future Improvements**
+Future Improvements
 1. Adding a single-player mode with AI.
 2. Improving piece designs and graphics.
 3. Implementing time controls to ensure a more competitive experience.
 
-**Built With**
+Built With
 1. Pygame - The Python library for game development.
 
 
-**License**
+License
 
 This project is open-source and free to use under the MIT License. Feel free to modify and share as needed.
 
-**Author:** 
+Author:
 Sandra Misigo
 
-**Contact:**
+Contact:
 For any questions or incase you experience challenges, feel free to contact me via [sandra.misigo@student.moringaschool.com]. Good luck!
  
 
